@@ -1,3 +1,3 @@
-export default function GridMenu() {
-	return <div>GridMenu</div>;
+export default function Menu() {
+	return <div>Menu</div>;
 }

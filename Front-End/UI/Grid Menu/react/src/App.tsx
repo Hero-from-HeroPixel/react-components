@@ -1,4 +1,4 @@
-import GridMenu from './components/grid';
+import GridMenu from './components/GridMenu';
 
 function App() {
 	return <GridMenu />;
