@@ -1,0 +1,4 @@
+#dev directories
+*node_modules
+*plain
+*build
