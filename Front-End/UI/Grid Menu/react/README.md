@@ -12,6 +12,6 @@
 
 ##### Add the following className attributes to the Tailwind extension
 
-- wrapperClass
+- appearance
 
 ## Dependencies
