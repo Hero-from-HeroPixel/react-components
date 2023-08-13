@@ -1,3 +1,9 @@
+import Grid from './Grid';
+
 export default function GridMenu() {
-	return <div>GridMenu</div>;
+	return (
+		<>
+			<Grid appearance={{ wrapper: 'bg-blue-500' }} />
+		</>
+	);
 }
