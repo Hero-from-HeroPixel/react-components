@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"class-variance-authority": "^0.7.0"
+	},
+	"devDependencies": {
+		"daisyui": "^3.5.1"
+	}
+}
