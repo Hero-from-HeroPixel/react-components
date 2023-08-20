@@ -19,7 +19,7 @@ const btnStyles = cva(styles.btn, {
 			tertiary: BtnTheme.intent.tertiary,
 			info: BtnTheme.intent.info,
 			success: BtnTheme.intent.success,
-
+			danger: BtnTheme.intent.danger,
 			warning: BtnTheme.intent.warning,
 			error: BtnTheme.intent.error,
 		},

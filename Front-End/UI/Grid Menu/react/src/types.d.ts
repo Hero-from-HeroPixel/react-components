@@ -10,6 +10,7 @@ interface TIntent {
 	success: string | string[];
 	warning: string | string[];
 	error: string | string[];
+	danger: string | string[];
 }
 
 interface TSize {
